@@ -1,0 +1,11 @@
+/*TEAM*/
+Nom: Asteria games
+Contact: asteriagames.pro@gmail.com
+Twitter:
+Location: France
+Paypal: https://paypal.me/AsteriaGames
+
+/*SITE*/
+Standards: CSS3, Typescript, JS
+Components: React, Tailwind, NextJS, Webpack
+Software: Visual Studio Code
